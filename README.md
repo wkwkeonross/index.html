@@ -1,1 +1,1 @@
-# index.html
+# Hi! I'm Keon Ross Genilza a second-year BSIT (Bachelor of Science in Information Technology) student at Republic Central Colleges. I’m passionate about technology, programming, and building projects that help improve my skills as I grow in the IT field.
